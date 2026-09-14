@@ -1,0 +1,7 @@
+python-telegram-bot[socks,job-queue]>=20.0
+pytz
+httpx[socks]
+httpx-socks>=0.7.0
+requests
+urllib3
+socksio
